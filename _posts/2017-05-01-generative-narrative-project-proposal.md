@@ -16,11 +16,13 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Does continuity matter? How would it be measured?
   * What aspects of human-based creation and ideation are applicable or relevant?
   * Should narrative generation cater to a human audience? If not, then who?
+  * Where do generated narratives exist after they are created? Does authorship matter? Is anything truly original?
   
 ##Answers We Hope to Find:
   * How a computer will parse human narratives.
   * How different narrative types are categorized.
   * What the objective & subjective results will be.
+  * What role generated narratives will play in traditional story telling.
   
 ##Topics of Interest:
   * Video Editing (Cutting and Sequencing – refer to the history of Montage)
@@ -32,7 +34,7 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Abstract Narrative
 
 ##Potential Routes / Learning Models:
-  * Unsupervised Sentiment
+  * Unsupervised Sentiment (https://blog.openai.com/unsupervised-sentiment-neuron/)
   * Object Recognition
   * [VideoGAN] (https://github.com/cvondrick/videogan)
   * T-SNE for similar video / sound / word structures
